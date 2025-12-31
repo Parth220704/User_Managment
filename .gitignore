@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# builds
+/dist/
+/build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# local venv (created by Copilot tools)
+.venv/
+
+# extracted artifacts
+assessment.txt

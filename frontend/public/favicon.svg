@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>User Management</title>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#0B1220"/>
+  <path d="M32 18c4.418 0 8 3.582 8 8s-3.582 8-8 8-8-3.582-8-8 3.582-8 8-8Z" fill="#E5E7EB"/>
+  <path d="M16 48c0-6.627 7.163-12 16-12s16 5.373 16 12" stroke="#E5E7EB" stroke-width="4" stroke-linecap="round"/>
+</svg>
